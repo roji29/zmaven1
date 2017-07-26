@@ -1,0 +1,8 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="ui5_mavenproj.ui5ToMaven" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Welcome To Maven">
+		<content>
+	
+		</content>
+	</Page>
+</core:View>
